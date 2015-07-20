@@ -1,0 +1,3 @@
+# cp example.config.yml _config.yml
+user_name: email # Your email here
+user_pass: pass  # Your password here
