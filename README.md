@@ -7,8 +7,8 @@ Build a simple list of incompatible modules from Acquia Cloud documentation:
 ## Installation
 
 ```
-$ git clone repo
-$ cd repo
+$ git clone git@github.com:nhoag/acq-incompatible.git
+$ cd acq-incompatible
 $ bundle install
 ```
 
