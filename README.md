@@ -1,4 +1,4 @@
-# Acqinc
+# ac-incompatible
 
 Build a simple list of incompatible modules from Acquia Cloud documentation:
 
@@ -7,8 +7,8 @@ Build a simple list of incompatible modules from Acquia Cloud documentation:
 ## Installation
 
 ```
-$ git clone git@github.com:nhoag/acq-incompatible.git
-$ cd acq-incompatible
+$ git clone git@github.com:nhoag/ac-incompatible.git
+$ cd ac-incompatible
 $ bundle install
 $ cp example.config.yml _config.yml
 # Add your creds to _config.yml
